@@ -1,7 +1,5 @@
-# 🧮 Age Calculator
-Simple age calculation with 🚀JavaScript. 
-
-![](https://s11.gifyu.com/images/ageCalculator.gif)
+# 🧮 Basic Calculator
+Basic Calculator with 🚀JavaScript. 
 
 # 🔗 Project 
-[click and see the project](https://age-calculator-efe-ataroglu.netlify.app/).
+[click and see the project](https://basic-calculator-efeataroglu.netlify.app/).
